@@ -1,6 +1,6 @@
-# MRMemVD
+# RMemVD
 
-This repository is the Pytorch implementation of [MRMemVD].
+This repository is the Pytorch implementation of [RMemVD].
 
 
 ## Prerequisites
